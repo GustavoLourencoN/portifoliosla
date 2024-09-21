@@ -1,0 +1,22 @@
+body{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #818181;
+    margin: 0,5;
+}
+
+h1{
+    font-size: 60px;
+    color: #303030;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
